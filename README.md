@@ -1,1 +1,1 @@
-# RandomNumberGenerator
+# Number guesssing Game
